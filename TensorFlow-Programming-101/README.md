@@ -7,5 +7,5 @@
   * 연산의 개념
   * 그래프 실행
 
-[프로그래밍 보기]()
+[프로그래밍 보기](https://github.com/LeeSM0518/deep-learning/tree/master/TensorFlow-Programming-101/tensorflow-programming.ipynb)
 
