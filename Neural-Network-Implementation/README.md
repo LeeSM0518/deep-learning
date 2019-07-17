@@ -32,5 +32,5 @@
 
 
 
-[프로그래밍 보기]()
+[프로그래밍 보기](https://github.com/LeeSM0518/deep-learning/blob/master/Neural-Network-Implementation/Classification-model-implementation.ipynb)
 
