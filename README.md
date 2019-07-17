@@ -8,7 +8,7 @@
 
 1. [텐서플로와 주피터 노트북 설치](https://github.com/LeeSM0518/deep-learning/tree/master/TensorFlow-and-Jupyter-Install)
 2. [텐서플로 프로그래밍 101](https://github.com/LeeSM0518/deep-learning/tree/master/TensorFlow-Programming-101)
-3. 기본 신경망 구현
+3. [기본 신경망 구현](https://github.com/LeeSM0518/deep-learning/tree/master/Neural-Network-Implementation)
 4. 텐서보드와 모델 재사용
 5. MNIST
 6. CNN
