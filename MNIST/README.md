@@ -6,4 +6,4 @@ MINIST 데이터셋을 신경망으로 학습시키는 방법 연습
 
 
 
-[프로그래밍 보기]()
+[프로그래밍 보기](https://github.com/LeeSM0518/deep-learning/blob/master/MNIST/MNIST.ipynb)
