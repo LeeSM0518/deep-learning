@@ -11,7 +11,7 @@
 3. [기본 신경망 구현](https://github.com/LeeSM0518/deep-learning/tree/master/Neural-Network-Implementation)
 4. [텐서보드와 모델 재사용](https://github.com/LeeSM0518/deep-learning/tree/master/Tensor-board-and-model-reuse)
 5. [MNIST](https://github.com/LeeSM0518/deep-learning/blob/master/MNIST)
-6. CNN
+6. [CNN](https://github.com/LeeSM0518/deep-learning/tree/master/CNN)
 7. Autoencoder
 8. GAN
 9. RNN
