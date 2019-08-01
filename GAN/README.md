@@ -5,3 +5,4 @@
 * **GAN 기본 구조**
 
 <img src="https://www.naverlabs.com/naverlabs_/story/201712/1513772298204_%EB%8F%84%EC%8B%9D1.jpg">
+
