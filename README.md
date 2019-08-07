@@ -13,8 +13,8 @@
 5. [MNIST](https://github.com/LeeSM0518/deep-learning/blob/master/MNIST)
 6. [CNN](https://github.com/LeeSM0518/deep-learning/tree/master/CNN)
 7. [Autoencoder](https://github.com/LeeSM0518/deep-learning/tree/master/Autoencoder)
-8. GAN
-9. RNN
+8. [GAN](https://github.com/LeeSM0518/deep-learning/tree/master/GAN)
+9. [RNN](https://github.com/LeeSM0518/deep-learning/tree/master/RNN)
 10. Inception
 11. DQN
 
